@@ -152,3 +152,5 @@ function bitwiseAndTest() {
     print(bitwiseFormat + ' -> ' + decimalFormat);
 }
 ```
+
+Project published at: https://matviishun.github.io/javascript-bitwise-operators/
